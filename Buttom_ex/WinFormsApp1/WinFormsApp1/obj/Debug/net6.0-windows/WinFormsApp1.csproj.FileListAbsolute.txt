@@ -1,0 +1,17 @@
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Buttom_ex\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
