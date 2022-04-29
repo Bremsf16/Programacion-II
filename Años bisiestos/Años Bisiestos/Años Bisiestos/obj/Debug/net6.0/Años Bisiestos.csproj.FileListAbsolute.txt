@@ -1,0 +1,15 @@
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.csproj.AssemblyReference.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.AssemblyInfoInputs.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.AssemblyInfo.cs
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\bin\Debug\net6.0\Años Bisiestos.exe
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\bin\Debug\net6.0\Años Bisiestos.deps.json
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\bin\Debug\net6.0\Años Bisiestos.runtimeconfig.json
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\bin\Debug\net6.0\Años Bisiestos.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\bin\Debug\net6.0\ref\Años Bisiestos.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\bin\Debug\net6.0\Años Bisiestos.pdb
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\ref\Años Bisiestos.dll
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.pdb
+C:\Users\Lisbeth Santos Fdez\Desktop\Bryan\Programación\Años bisiestos\Años Bisiestos\Años Bisiestos\obj\Debug\net6.0\Años Bisiestos.genruntimeconfig.cache
