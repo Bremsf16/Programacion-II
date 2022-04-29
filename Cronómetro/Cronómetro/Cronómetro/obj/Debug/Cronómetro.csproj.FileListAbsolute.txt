@@ -1,0 +1,11 @@
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\bin\Debug\Cronómetro.exe.config
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\bin\Debug\Cronómetro.exe
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\bin\Debug\Cronómetro.pdb
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.csproj.AssemblyReference.cache
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.csproj.SuggestedBindingRedirects.cache
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.Form1.resources
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.Properties.Resources.resources
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.csproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.csproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.exe
+C:\Users\bryan\OneDrive\Escritorio\Program\C#\Cronómetro\Cronómetro\Cronómetro\obj\Debug\Cronómetro.pdb
